@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Model weights and caches
+models/
+.cache/
+huggingface/
+*.safetensors
+*.bin
+*.pth
+*.pt
+*.gguf
+
+# Runtime data
+data/
+logs/
+*.log
