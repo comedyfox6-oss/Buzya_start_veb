@@ -1,0 +1,5 @@
+# PyTorch CPU is installed separately by the devcontainer configuration.
+transformers>=5.15.0
+accelerate>=1.0.0
+safetensors>=0.4.5
+huggingface_hub>=0.30.0
